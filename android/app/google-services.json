@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52704321551",
+    "firebase_url": "https://demofyp-c59be-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demofyp-c59be",
+    "storage_bucket": "demofyp-c59be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52704321551:android:00077da54b47a2a858837a",
+        "android_client_info": {
+          "package_name": "com.fypdemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52704321551-eemk12j5rouv6v3g8u1f884k5tf3i4db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArEdGHRGU0AcIukVItvlEg_RheMven92Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52704321551-eemk12j5rouv6v3g8u1f884k5tf3i4db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
